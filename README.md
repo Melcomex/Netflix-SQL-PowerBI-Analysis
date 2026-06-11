@@ -159,7 +159,8 @@ Power BI was used to create an interactive dashboard displaying:
 ## Dashboard Preview
 > *The dashboard provides a visual summary of Netflix content trends, ratings, country distribution, and release patterns.*
 
-![Netflix Dashboard](dashboard_screenshot.png)
+![Netflix Dashboard](<img width="1382" height="983" alt="image" src="https://github.com/user-attachments/assets/7d3b4741-e8cf-4d07-a47c-43b32b8cfc58" />
+)
 
 ---
 
